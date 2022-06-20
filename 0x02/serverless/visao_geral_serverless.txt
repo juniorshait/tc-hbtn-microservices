@@ -1,0 +1,20 @@
+﻿      O que é Arquitetura Serverless
+      Arquitetura Serverless, ou “computação sem servidores”, é uma arquitetura de computação orientada a eventos. Sua principal proposta é permitir que as empresas de software criem e mantenham seus aplicativos web sem se preocupar com a infraestrutura em que esses aplicativos estão rodando.
+      
+      O que é Function as a service (FaaS) ?
+      Um serviço de computação em nuvem que busca abstrair a questão de servidor e máquinas onde rodam os seus programas. Nestes moldes, reduz-se a complexidade de uma pessoa ter que montar e manter a infraestrutura. 
+      
+      Quais são os benefícios de usar arquitetura Serverless ?
+      Uma vantagem é o modelo de cobrança baseado em tempo de execução, diferente dos custos de manter máquinas virtuais com clusters e hosts de container. Você tem a cobrança ligada ao que executou, seja algumas vezes por dia ou milhares de vezes por segundo. De forma bem simplificada, FaaS é um jeito de executar uma regra de negócio, a partir de algum outro evento que a dispare. 
+      
+      O que é Cloud Computing (Computação em Nuvem) ? E quais são seu benefícios ?
+      Cloud Computing ― ou computação em nuvem ― é um dos recursos que o avanço da tecnologia nos proporcionou. Ele permite que os usuários armazenem e acessem sistemas e ferramentas, pela internet, sem a obrigação de salvar dados em um computador. 
+      Seus benefícios são:
+            ▪ Mais segurança
+              Mais espaço de armazenamento
+            ▪ Melhor organização de arquivos
+            ▪ Redução de custos
+            ▪ Facilidade de acesso e praticidade
+      
+Quais são as principais diferenças entre Arquitetura Monolítica, Microsserviços e Serverless ?
+      A grande diferença seria na organização e escalabilidade, devido ao fato de cada arquitetura ter sua forma de trabalhar, seja em partes como microsserviços, ou junta na monolítica ou orientada a eventos como o serverless.
